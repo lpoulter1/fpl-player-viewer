@@ -28,7 +28,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.5",
+    "@nivo/radar": "^0.59.1",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-select": "^3.0.4"
   }
 }
